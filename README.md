@@ -16,7 +16,7 @@
 ### Instalar Django 3.2.3
 * pip3 install django==3.2.3
 
---
+------------------------------------------------------------
 
 
 ### Instalar Entorno Virtual
