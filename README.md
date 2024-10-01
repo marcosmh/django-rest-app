@@ -61,6 +61,15 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 
 
+# Documentación
+
+* Django Rest Framework
+https://www.django-rest-framework.org/
+
+* ViewSet
+https://www.django-rest-framework.org/api-guide/viewsets/#viewsets
+
+
 ------------------------------------------------------------
 
 ### Utilerias
