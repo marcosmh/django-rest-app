@@ -16,6 +16,9 @@
 ### Instalar Django 3.2.3
 * pip3 install django==3.2.3
 
+### Instalar Django Rest Framework 3.12.4
+* pip3 install djangorestframework==3.12.4
+
 ------------------------------------------------------------
 
 
@@ -30,6 +33,11 @@
 
 ### Instalar Django Framework
 * pip3 install django==3.2.3
+
+### Instalar Django Rest Framework 3.12.4
+* pip3 install djangorestframework==3.12.4
+
+------------------------------------------------------------
 
 ### Crear Proyecto Django
 * django-admin startproject my_blog
@@ -46,10 +54,14 @@
 ### Crear Aplicación Django
 * python3 manage.py startapp posts
 
+------------------------------------------------------------
+
 ### Crear Models en la Base de Datos
 python3 manage.py makemigrations
 python3 manage.py migrate
 
+
+------------------------------------------------------------
 
 ### Utilerias
 1. Verificar qué proceso está usando el puerto
