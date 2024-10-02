@@ -69,6 +69,8 @@ https://www.django-rest-framework.org/
 * ViewSet
 https://www.django-rest-framework.org/api-guide/viewsets/#viewsets
 
+* ModelViewSet:
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
 
 ------------------------------------------------------------
 
