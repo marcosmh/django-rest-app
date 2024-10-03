@@ -61,11 +61,15 @@
 * python3 manage.py makemigrations
 * python3 manage.py migrate
 
-# Crear Documentación
+### Crear Documentación
 * pip3 install drf-yasg==1.20.0
  
- ## Generar staticos
+### Generar staticos
  * python3 manage.py collectstatic
+
+### JWT Autentificación
+pip3 install djangorestframework-simplejwt==4.7.1
+
 
 ------------------------------------------------------------
 
