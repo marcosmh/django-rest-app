@@ -58,8 +58,8 @@
 ------------------------------------------------------------
 
 ### Crear Models en la Base de Datos
-python3 manage.py makemigrations
-python3 manage.py migrate
+* python3 manage.py makemigrations
+* python3 manage.py migrate
 
 # Crear Documentación
 * pip3 install drf-yasg==1.20.0
