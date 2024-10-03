@@ -21,8 +21,7 @@
 
 ------------------------------------------------------------
 
-
-### Instalar Entorno Virtual
+### Instalar Entorno Virtual venv
 * python3 -m venv envs/entorno_django
 
 ### Activar el Entorno Virtual
@@ -53,6 +52,8 @@
 
 ### Crear Aplicación Django
 * python3 manage.py startapp posts
+
+* * python3 manage.py startapp user
 
 ------------------------------------------------------------
 
