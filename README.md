@@ -66,6 +66,7 @@ python3 manage.py migrate
  ## Generar staticos
  * python3 manage.py collectstatic
 
+------------------------------------------------------------
 
 
 
@@ -89,6 +90,8 @@ https://drf-yasg.readthedocs.io/en/stable/readme.html#usage
 ------------------------------------------------------------
 
 ### Utilerias
+* Puerto Ocupado 
+
 1. Verificar qué proceso está usando el puerto
 * lsof -i :8000
 
