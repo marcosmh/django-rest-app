@@ -60,6 +60,14 @@
 python3 manage.py makemigrations
 python3 manage.py migrate
 
+# Crear Documentación
+* pip3 install drf-yasg==1.20.0
+ 
+ ** Generar staticos
+ *** python3 manage.py collectstatic
+
+
+
 
 # Documentación
 
@@ -71,6 +79,12 @@ https://www.django-rest-framework.org/api-guide/viewsets/#viewsets
 
 * ModelViewSet:
 https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+
+* drf-yasg
+https://pypi.org/project/drf-yasg/
+
+* drf-yasg - Yet another Swagger generator
+https://drf-yasg.readthedocs.io/en/stable/readme.html#usage
 
 ------------------------------------------------------------
 
