@@ -70,6 +70,14 @@
 ### JWT Autentificación
 pip3 install djangorestframework-simplejwt==4.7.1
 
+### Instalar driver para PostgreSQL
+
+* brew install postgresql libpq libpq-dev libq-devel
+
+* pip3 install psycopg2-binary==2.8.6
+
+* pip3 install psycopg2
+
 
 ------------------------------------------------------------
 
