@@ -53,7 +53,7 @@
 ### Crear Aplicación Django
 * python3 manage.py startapp posts
 
-* * python3 manage.py startapp user
+* python3 manage.py startapp user
 
 ------------------------------------------------------------
 
@@ -65,10 +65,10 @@
 * pip3 install drf-yasg==1.20.0
  
 ### Generar staticos
- * python3 manage.py collectstatic
+* python3 manage.py collectstatic
 
 ### JWT Autentificación
-pip3 install djangorestframework-simplejwt==4.7.1
+* pip3 install djangorestframework-simplejwt==4.7.1
 
 ### Instalar driver para PostgreSQL
 
@@ -99,6 +99,9 @@ https://pypi.org/project/drf-yasg/
 
 * drf-yasg - Yet another Swagger generator
 https://drf-yasg.readthedocs.io/en/stable/readme.html#usage
+
+* psycopg2 Driver para PostgresSQL
+https://pypi.org/project/psycopg2/
 
 ------------------------------------------------------------
 
