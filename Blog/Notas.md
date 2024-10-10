@@ -9,6 +9,8 @@
 
 * python3 manage.py startapp users
 
+* python3 manage.py startapp categories
+
 ### Crear Models en la Base de Datos
 * python3 manage.py makemigrations
 * python3 manage.py migrate
