@@ -11,6 +11,8 @@
 
 * python3 manage.py startapp categories
 
+* python3 manage.py startapp posts
+
 ### Crear Models en la Base de Datos
 * python3 manage.py makemigrations
 * python3 manage.py migrate
@@ -21,3 +23,5 @@
 ### Generar staticos
 * python3 manage.py collectstatic
 
+### Subir Imágenes
+* pip3 install Pillow==10.4.0
