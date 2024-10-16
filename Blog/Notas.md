@@ -25,3 +25,6 @@
 
 ### Subir Imágenes
 * pip3 install Pillow==10.4.0
+
+### Servidor a instalar
+* pip3 install gunicorn
